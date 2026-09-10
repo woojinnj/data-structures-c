@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/woojin/Desktop/크래프톤 정글/data_structures_docker/test"
+relocations:     []
+...
