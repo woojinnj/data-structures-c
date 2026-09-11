@@ -1,0 +1,13 @@
+# C executables generated beside the source files
+/test
+/Data-Structures/**/Q[0-9]*_BST
+/Data-Structures/**/Q[0-9]*_BT
+/Data-Structures/**/Q[0-9]*_LL
+/Data-Structures/**/Q[0-9]*_SQ
+
+# Compiler and debugger output
+*.dSYM/
+*.o
+*.obj
+*.out
+*.exe
