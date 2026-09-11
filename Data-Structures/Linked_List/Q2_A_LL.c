@@ -78,7 +78,7 @@ int main()
 			printList(&ll2);
 			break;
 		case 3:
-		    printf("The resulting linked lists after merging the given linked list are:\n");
+			printf("The resulting linked lists after merging the given linked list are:\n");
 			alternateMergeLinkedList(&ll1, &ll2); // You need to code this function
 			printf("The resulting linked list 1: ");
 			printList(&ll1);
